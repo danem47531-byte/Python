@@ -185,8 +185,7 @@ Use Z-Score and IQR-based anomaly detection to flag unusual behavior early, enab
 ```
 📦 Python Project
  ┣ 📓 Python scripting.ipynb     # Full Jupyter Notebook with all 6 tasks
- ┣ 📄 Python.pdf                 # Task-wise findings and key insights
- ┗ 🔗 Video link.pdf             # Video walkthrough links
+ ┗ 📄 Python.pdf                 # Task-wise findings and key insights
 ```
 
 ---
@@ -204,13 +203,6 @@ Use Z-Score and IQR-based anomaly detection to flag unusual behavior early, enab
 
 ---
 
-## 🎥 Project Walkthrough
-
-Two-part video walkthrough available here:
-- 🔗 [Video 1 — Watch on Loom](https://www.loom.com/share/91dd2976d4f44364b13901868b0f0a45)
-- 🔗 [Video 2 — Watch on Loom](https://www.loom.com/share/1b9ad40413a2410789eec7a51cd4eed1)
-
----
 
 ## 👤 Author
 
